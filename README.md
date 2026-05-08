@@ -11,8 +11,8 @@ A secure and scalable blog REST API built with **Django REST Framework**, featur
 
 ## 📸 Screenshots
 
-| Posts List | Create Post | Login | Post Detail |
-|---|---|---|---|
+| Posts List | Create Post | Login | 
+|---|---|---|
 | ![Posts List](screenshots/posts-list.png) | ![Create Post](screenshots/create-post.png) | ![Login](screenshots/login.png) | 
 
 ---
